@@ -38,7 +38,7 @@ public class Main {
         System.out.println("Total: "+student.total());
         System.out.println("Average: "+student.average());
         System.out.println("Grade: "+student.grade());
-        System.out.println("Student Details: "+ student);//if your class has a toString method if you give the object ref it call directly toString method
+        System.out.println("Student Details: "+ student);//if your class has a toString method if you give the object ref it will call directly toString method
 
 
     }
